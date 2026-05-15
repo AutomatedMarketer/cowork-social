@@ -1,10 +1,7 @@
 ---
 name: draft-twitter
-slug: /draft-twitter
-version: 0.1.0
-plugin: cowork-social
-description: Draft a platform-native Twitter/X post or thread in your voice. Reads platform-voice.md (Twitter section) + brand-brief.md + business-brain.md. 280-char enforcement per tweet, thread support up to 12 tweets. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Native — Blotato's post-writer doesn't cover X.
-triggers:
+description: "Draft a platform-native Twitter/X post or thread in your voice. Reads platform-voice.md (Twitter section) + brand-brief.md + business-brain.md. 280-char enforcement per tweet, thread support up to 12 tweets. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Native — Blotato's post-writer doesn't cover X."
+when_to_use:
   - /draft-twitter
   - /draft-x
   - draft twitter post

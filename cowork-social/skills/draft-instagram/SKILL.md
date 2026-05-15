@@ -1,10 +1,7 @@
 ---
 name: draft-instagram
-slug: /draft-instagram
-version: 0.1.0
-plugin: cowork-social
-description: Draft a platform-native Instagram caption with required image attachment. Reads platform-voice.md (Instagram section) + brand-brief.md + business-brain.md + asset-index.md. Image is MANDATORY — skill fails clean if no asset specified. 125-2200 char caption, 5-10 hashtags. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied.
-triggers:
+description: "Draft a platform-native Instagram caption with required image attachment. Reads platform-voice.md (Instagram section) + brand-brief.md + business-brain.md + asset-index.md. Image is MANDATORY — skill fails clean if no asset specified. 125-2200 char caption, 5-10 hashtags. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied."
+when_to_use:
   - /draft-instagram
   - /draft-ig
   - draft instagram post

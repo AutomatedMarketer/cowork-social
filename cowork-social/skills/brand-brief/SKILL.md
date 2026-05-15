@@ -1,10 +1,7 @@
 ---
 name: brand-brief
-slug: /brand-brief
-version: 0.1.0
-plugin: cowork-social
-description: Capture or refresh the brand brief that powers every content skill. Auto-derives 5 of 6 fields from about-me/business-brain.md; asks delta questions only. Saves to projects/social-media-content/brand-brief.md. Foundation B + C applied.
-triggers:
+description: "Capture or refresh the brand brief that powers every content skill. Auto-derives 5 of 6 fields from about-me/business-brain.md; asks delta questions only. Saves to projects/social-media-content/brand-brief.md. Foundation B + C applied."
+when_to_use:
   - /brand-brief
   - refresh my brand brief
   - update brand brief

@@ -1,10 +1,7 @@
 ---
 name: draft-threads
-slug: /draft-threads
-version: 0.1.0
-plugin: cowork-social
-description: Draft a platform-native Meta Threads post or reply chain in your voice. Reads platform-voice.md (Threads section) + brand-brief.md + business-brain.md. ≤500 chars per post, reply chain up to 10 posts. Conversational tone — Instagram-but-text. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Native — Blotato's post-writer doesn't cover Threads.
-triggers:
+description: "Draft a platform-native Meta Threads post or reply chain in your voice. Reads platform-voice.md (Threads section) + brand-brief.md + business-brain.md. ≤500 chars per post, reply chain up to 10 posts. Conversational tone — Instagram-but-text. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Native — Blotato's post-writer doesn't cover Threads."
+when_to_use:
   - /draft-threads
   - draft threads post
   - meta threads post

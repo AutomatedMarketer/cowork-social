@@ -1,10 +1,7 @@
 ---
 name: content-coach
-slug: /content-coach
-version: 0.1.0
-plugin: cowork-social
-description: Generate 5 platform-aware post ideas tied to brand-brief.md + business-brain.md. Entry point for "I don't know what to post." Falls back to /brand-brief if no brief exists. Foundation B + C applied.
-triggers:
+description: "Generate 5 platform-aware post ideas tied to brand-brief.md + business-brain.md. Entry point for \"I don't know what to post.\" Falls back to /brand-brief if no brief exists. Foundation B + C applied."
+when_to_use:
   - /content-coach
   - give me post ideas
   - I don't know what to post

@@ -1,10 +1,7 @@
 ---
 name: draft-tiktok
-slug: /draft-tiktok
-version: 0.1.0
-plugin: cowork-social
-description: Draft a TikTok video script + caption + hashtags. Reads platform-voice.md (TikTok section) + brand-brief.md + business-brain.md + asset-index.md. Video is MANDATORY — skill fails clean if no video asset specified. Script structure hook≤3s → context → payoff → CTA. Caption ≤150 chars, 3-5 hashtags. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied.
-triggers:
+description: "Draft a TikTok video script + caption + hashtags. Reads platform-voice.md (TikTok section) + brand-brief.md + business-brain.md + asset-index.md. Video is MANDATORY — skill fails clean if no video asset specified. Script structure hook≤3s → context → payoff → CTA. Caption ≤150 chars, 3-5 hashtags. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied."
+when_to_use:
   - /draft-tiktok
   - /draft-tt
   - draft tiktok script

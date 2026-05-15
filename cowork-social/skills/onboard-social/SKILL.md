@@ -1,10 +1,7 @@
 ---
 name: onboard-social
-slug: /onboard-social
-version: 0.1.0
-plugin: cowork-social
-description: 9-phase install wizard for the cowork-social content engine (Phases 0-8). Reads about-me/business-brain.md from cowork-ai-os, auto-derives brand-brief.md, picks 1-6 social platforms, calibrates per-platform voice, walks the user through Blotato setup (recommended, not required), seeds asset-index + scheduling-defaults, runs a first live draft, schedules cadence + 14-day calibration check. State.md resumable. Applies all 3 architectural foundations at wrap-up. ~15 min.
-triggers:
+description: "9-phase install wizard for the cowork-social content engine (Phases 0-8). Reads about-me/business-brain.md from cowork-ai-os, auto-derives brand-brief.md, picks 1-6 social platforms, calibrates per-platform voice, walks the user through Blotato setup (recommended, not required), seeds asset-index + scheduling-defaults, runs a first live draft, schedules cadence + 14-day calibration check. State.md resumable. Applies all 3 architectural foundations at wrap-up. ~15 min."
+when_to_use:
   - /onboard-social
   - onboard social
   - set up social

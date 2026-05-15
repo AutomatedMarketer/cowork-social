@@ -1,10 +1,7 @@
 ---
 name: draft-linkedin
-slug: /draft-linkedin
-version: 0.1.0
-plugin: cowork-social
-description: Draft a platform-native LinkedIn post in your voice. Reads platform-voice.md (LinkedIn section) + brand-brief.md + business-brain.md. Generates 3 hook candidates, plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Follows the 12-step shared draft-skill spec.
-triggers:
+description: "Draft a platform-native LinkedIn post in your voice. Reads platform-voice.md (LinkedIn section) + brand-brief.md + business-brain.md. Generates 3 hook candidates, plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Follows the 12-step shared draft-skill spec."
+when_to_use:
   - /draft-linkedin
   - draft linkedin post
   - linkedin post about

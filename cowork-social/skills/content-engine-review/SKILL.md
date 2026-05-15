@@ -1,10 +1,7 @@
 ---
 name: content-engine-review
-slug: /content-engine-review
-version: 0.1.0
-plugin: cowork-social
-description: Monthly retrospective on the content engine. Reads last 30 days of calendar-log, memory, grade history, and pickup rates. Surfaces what worked, what didn't, proposed tuning. Saves report to reviews/YYYY-MM-review.md. Foundation B + C applied.
-triggers:
+description: "Monthly retrospective on the content engine. Reads last 30 days of calendar-log, memory, grade history, and pickup rates. Surfaces what worked, what didn't, proposed tuning. Saves report to reviews/YYYY-MM-review.md. Foundation B + C applied."
+when_to_use:
   - /content-engine-review
   - monthly review
   - engine review

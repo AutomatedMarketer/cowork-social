@@ -1,10 +1,7 @@
 ---
 name: grade-post
-slug: /grade-post
-version: 0.1.0
-plugin: cowork-social
-description: Score any draft post against the grading rubric (hook 50%, voice 15%, length 10%, CTA 10%, platform-native 10%, anti-AI 5%). Returns score + top 3 fixes. Pass threshold 80/100. Read-only — never writes the draft. Foundation B + C applied.
-triggers:
+description: "Score any draft post against the grading rubric (hook 50%, voice 15%, length 10%, CTA 10%, platform-native 10%, anti-AI 5%). Returns score + top 3 fixes. Pass threshold 80/100. Read-only — never writes the draft. Foundation B + C applied."
+when_to_use:
   - /grade-post
   - grade this post
   - score my draft

@@ -1,10 +1,7 @@
 ---
 name: draft-facebook
-slug: /draft-facebook
-version: 0.1.0
-plugin: cowork-social
-description: Draft a platform-native Facebook post in your voice. Reads platform-voice.md (Facebook section) + brand-brief.md + business-brain.md. 40-80 word sweet spot. Link previews supported. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Reads pageId from state-social.md for FB subaccount scheduling.
-triggers:
+description: "Draft a platform-native Facebook post in your voice. Reads platform-voice.md (Facebook section) + brand-brief.md + business-brain.md. 40-80 word sweet spot. Link previews supported. Plan-then-approves, writes to outputs/, optionally schedules via Blotato. Foundation B + C applied. Reads pageId from state-social.md for FB subaccount scheduling."
+when_to_use:
   - /draft-facebook
   - /draft-fb
   - draft facebook post

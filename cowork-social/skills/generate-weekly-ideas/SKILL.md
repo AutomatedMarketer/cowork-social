@@ -1,10 +1,7 @@
 ---
 name: generate-weekly-ideas
-slug: /generate-weekly-ideas
-version: 0.1.0
-plugin: cowork-social
-description: Saturday 8am scheduled task. Reads trend-sources.md + brand-brief + recent calendar-log entries; produces 10 ranked post ideas to ideas/YYYY-MM-DD-ideas.md. Headless — NEXT MOVE block embedded in the file footer. Foundation B + C applied with headless-variant.
-triggers:
+description: "Saturday 8am scheduled task. Reads trend-sources.md + brand-brief + recent calendar-log entries; produces 10 ranked post ideas to ideas/YYYY-MM-DD-ideas.md. Headless — NEXT MOVE block embedded in the file footer. Foundation B + C applied with headless-variant."
+when_to_use:
   - /generate-weekly-ideas
   - generate weekly ideas
   - weekly ideas

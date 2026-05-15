@@ -1,10 +1,7 @@
 ---
 name: weekly-content-session
-slug: /weekly-content-session
-version: 0.1.0
-plugin: cowork-social
-description: The Monday 2-hour batch orchestrator. Reads this week's ideas from ideas/YYYY-MM-DD-ideas.md, walks platform-by-platform through /draft-<platform> + /grade-post + Blotato scheduling, logs to calendar-log.md. Closes the laptop with a week of content shipped. Foundation B + C applied.
-triggers:
+description: "The Monday 2-hour batch orchestrator. Reads this week's ideas from ideas/YYYY-MM-DD-ideas.md, walks platform-by-platform through /draft-<platform> + /grade-post + Blotato scheduling, logs to calendar-log.md. Closes the laptop with a week of content shipped. Foundation B + C applied."
+when_to_use:
   - /weekly-content-session
   - weekly content session
   - run my content session
