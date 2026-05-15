@@ -1,0 +1,25 @@
+{
+  "name": "cowork-social",
+  "version": "0.1.0",
+  "description": "Social media content engine for the Cowork AI OS. 13 skills: 8-phase wizard, brand brief auto-derived from business-brain.md, content coach, 6 platform draft skills (LinkedIn, Twitter, Instagram, Facebook, TikTok, Threads), post grader (hook=50%), Monday batch orchestrator, Saturday idea generator, monthly retrospective. Cowork-native rewrites of Blotato's official Claude Skills. Soft-depends on cowork-ai-os for identity files. Loose-couples with cowork-research for sibling Blotato MCP wiring.",
+  "author": {
+    "name": "Nuno Tavares",
+    "url": "https://github.com/AutomatedMarketer"
+  },
+  "license": "MIT",
+  "skills": [
+    "skills/onboard-social",
+    "skills/brand-brief",
+    "skills/content-coach",
+    "skills/draft-linkedin",
+    "skills/draft-twitter",
+    "skills/draft-instagram",
+    "skills/draft-facebook",
+    "skills/draft-tiktok",
+    "skills/draft-threads",
+    "skills/grade-post",
+    "skills/weekly-content-session",
+    "skills/generate-weekly-ideas",
+    "skills/content-engine-review"
+  ]
+}

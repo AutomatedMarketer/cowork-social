@@ -1,0 +1,13 @@
+{
+  "name": "cowork-social",
+  "owner": "AutomatedMarketer",
+  "description": "Social media content engine. 13 skills: 8-phase wizard, 6 platform drafts (LinkedIn/Twitter/Instagram/Facebook/TikTok/Threads), grader, Monday batch orchestrator, Saturday idea generator, monthly retrospective. Built for Blotato MCP scheduling.",
+  "homepage": "https://github.com/AutomatedMarketer/cowork-social",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "cowork-social",
+      "source": "./cowork-social"
+    }
+  ]
+}
