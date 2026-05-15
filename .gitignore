@@ -1,0 +1,30 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build artifacts
+release/
+*.zip
+
+# Node (just in case)
+node_modules/
+
+# Logs
+*.log
+
+# Credential-shaped patterns (defensive — none should ever be committed)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*credentials*.json
+*api-key*
+*secret*
